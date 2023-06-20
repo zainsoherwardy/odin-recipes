@@ -1,0 +1,1 @@
+This project is practice for coding in javascript and this page will have links to different recipes.
